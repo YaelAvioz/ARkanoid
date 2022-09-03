@@ -99,6 +99,10 @@ Velocity: A velocity that contains dx and dy.
 
 PrintingHitListener: Print a meesage when the ball hit a block.
 
+
+#### Ass6Game: run a game with levels that contains balls, blocks and paddle.
+
+
 ### Design Patterns
 Observer-Observable: in the game the Block is the observable and BlockRemover, BallRemover and ScoreTrackingListener are that observers.
 
